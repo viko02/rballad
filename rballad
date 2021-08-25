@@ -1,0 +1,61 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ1FBvM8eF_NijuciQ1gsIL4_q-_1ln3VB0jw&usqp=CAU", Rock Ballads
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=oX0avxQG6f8
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQXjwIg_WscGH1rKlc8QFDUtOF2RoFzkmSsoQ&usqp=CAU", Rock Ballads 2
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=3_oxguu1JwI
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTKCZ2hBFU6RXN7edmmu9TDrDTlDr-FuFeQHA&usqp=CAU", Rock Ballads 3
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=dAimiptIRMs
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRd890A_8BV-tYUslQW9LBkZINABWOEBdAKnA&usqp=CAU", Rock Ballads 4
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=i1L4qZ96tvI
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSyavdAmQ78crioXokZpE0bd_pYm4tKSWoC6w&usqp=CAU", Rock Ballads 5
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=RYq_b6QDPcw
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d73f9c_f0de781e47d04ae682155618a18de3e8~mv2.jpg", Rock Ballads 6
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=kUr1XFfT59A
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRNVS5kabC3R-w8Rb7xaeQmqL_q8oLoDX5XdQ&usqp=CAU", Rock Ballads 7
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=VpZkPb1iW78
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qw3k89C.jpg", Rock Ballads 8
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=qJn1qGA2M4I
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/295/original/20210501_140454.jpg?1619888761", Rock Ballads 9
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=U8DXPDqbsZQ
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d73f9c_ffbe1f2cf0e24c52a7ede70edb5072cb~mv2.jpg", Ballads, The Best
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=wrBqVsLEfqI
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
